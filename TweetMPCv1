@@ -66,104 +66,104 @@ Label(master, text="tweet40").grid(row=9, column=12)
 
 def show_entry_field1():
    #print(e1.get())
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field2():
    #print(e2.get())
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field3():
   # print((e3.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field4():
    #print((e4.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field5():
   # print((e5.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field6():
   # print((e6.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field7():
    #print((e7.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field8():
    #print((e8.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Ayour tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='Ayour tweet here')
 def show_entry_field9():
    #print((e9.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field10():
    #print((e10.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here ')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here ')
 def show_entry_field11():
    #print((e11.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field12():
    #print((e12.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field13():
    #print((e13.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field14():
    #print((e14.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field15():
    #print((e15.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field16():
    #print((e16.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field17():
    #print((e17.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field18():
    #print((e18.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field19():
    #print((e19.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field20():
    #print((e20.get()))
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field21():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here ')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here ')
 def show_entry_field22():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field23():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field24():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field25():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field26():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field27():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field28():
-   twitter.send_direct_message(user_id='2755021825', text='Fyour tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='Fyour tweet here')
 def show_entry_field29():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field30():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field31():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field32():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field33():
-   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='your tweet here')
 def show_entry_field34():
-   twitter.send_direct_message(user_id='2755021825', text='')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')
 def show_entry_field35():
-   twitter.send_direct_message(user_id='2755021825', text='')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')
 def show_entry_field36():
-   twitter.send_direct_message(user_id='2755021825', text='')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')
 def show_entry_field37():
-   twitter.send_direct_message(user_id='2755021825', text='')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')
 def show_entry_field38():
-   twitter.send_direct_message(user_id='2755021825', text='')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')
 def show_entry_field39():
-   twitter.send_direct_message(user_id='2755021825', text='')
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')
 def show_entry_field40():
-   twitter.send_direct_message(user_id='2755021825', text='')   
+   twitter.send_direct_message(user_id='gettwitter id of account you want', text='')   
 
 Button(master, text='tweet', command=show_entry_field1).grid(row=0, column=4, sticky=W, pady=4)
 Button(master, text='tweet', command=show_entry_field2).grid(row=1, column=4, sticky=W, pady=4)
