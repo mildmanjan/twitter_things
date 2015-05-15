@@ -75,7 +75,7 @@ def show_entry_field3():
    twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field4():
    #print((e4.get()))
-   twitter.send_direct_message(user_id='your tweet here')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field5():
   # print((e5.get()))
    twitter.send_direct_message(user_id='2755021825', text='your tweet here')
