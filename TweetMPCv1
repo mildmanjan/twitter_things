@@ -69,87 +69,87 @@ def show_entry_field1():
    twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field2():
    #print(e2.get())
-   twitter.send_direct_message(user_id='2755021825', text='Follow @Brdcaster for Diversity initiatives that could help you change the face of your organisation')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field3():
   # print((e3.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Follow @Brdcaster for the latest challenges and solutions to Diversity today')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field4():
    #print((e4.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Follow @BBCMarkEaston for the latest from the BBCs Home Editor')
+   twitter.send_direct_message(user_id='your tweet here')
 def show_entry_field5():
   # print((e5.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Politics and social affairs across the UK from @BBCMarkEaston')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field6():
   # print((e6.get()))
-   twitter.send_direct_message(user_id='2755021825', text='@BBCMarkEaston for think pieces that really make you...think ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field7():
    #print((e7.get()))
-   twitter.send_direct_message(user_id='2755021825', text='UK BME representation is 14%, (African Caribbean : 3.3%), (Asian :7.5%), (Mixed : 2.2%).')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field8():
    #print((e8.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Mind Awards - Best Drama for The Village')
+   twitter.send_direct_message(user_id='2755021825', text='Ayour tweet here')
 def show_entry_field9():
    #print((e9.get()))
-   twitter.send_direct_message(user_id='2755021825', text='BBC  BME All staff: 12.6%. Target 14.2% (for 2017) ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field10():
    #print((e10.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Mind Awards - Best Soap and Continuous Drama for Casualty, ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here ')
 def show_entry_field11():
    #print((e11.get()))
-   twitter.send_direct_message(user_id='2755021825', text='BBC BME Leadership grades (10- SM1) 8.7% Target 10% (for 2017) ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field12():
    #print((e12.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Stonewall - BBC nominated for more awards than any other broadcaster')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field13():
    #print((e13.get()))
-   twitter.send_direct_message(user_id='2755021825', text='UK Disabled population is 18%.')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field14():
    #print((e14.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Mind Awards - Current Affairs for Newsnight on Postpartum Psychosis')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field15():
    #print((e15.get()))
-   twitter.send_direct_message(user_id='2755021825', text='BBC Disabled all staff: 3.7% Target 5.4% (for 2017)')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field16():
    #print((e16.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Mind Awards - Radio for R1Xtra for Scorzayee and the S-Word')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field17():
    #print((e17.get()))
-   twitter.send_direct_message(user_id='2755021825', text='BBC Disabled Leadership grades: 3.1% Target 5% (for 2017)')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field18():
    #print((e18.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Stonewall - Broadcast of the Year for CBBCs Marrying Mum and Dad')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field19():
    #print((e19.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Future Media and Technology have a specific target for women of 30% as clear areas of specific under-representation.')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field20():
    #print((e20.get()))
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - RNIB - App of the Month for the BBC Weather App for July 2013')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field21():
-   twitter.send_direct_message(user_id='2755021825', text='BBCs Expert Women programme trained 164 women. As a result, 67 of these women have made 249 media appearances. ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here ')
 def show_entry_field22():
-   twitter.send_direct_message(user_id='2755021825', text='Award winning content - Asian Media Awards - BBC Asian Network Radio Station of the Year')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field23():
-   twitter.send_direct_message(user_id='2755021825', text='Expert women model will be extended to BME experts, 3 sessions planned in London, Salford and Cardiff ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field24():
-   twitter.send_direct_message(user_id='2755021825', text='The latest Tweets from @ProfBrianCox, Master of karate and friendship, Manchester.')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field25():
-   twitter.send_direct_message(user_id='2755021825', text='Stargazing Live latest, follow @ProfBrianCox')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field26():
-   twitter.send_direct_message(user_id='2755021825', text='Space, the Universe and Everything, with @ProfBrianCox')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field27():
-   twitter.send_direct_message(user_id='2755021825', text='The latest Tweets from BBC The Sky at Night @BBCStargazing. ')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field28():
-   twitter.send_direct_message(user_id='2755021825', text='Follow @BBCStargazing for the latest news from The Sky at Night ...')
+   twitter.send_direct_message(user_id='2755021825', text='Fyour tweet here')
 def show_entry_field29():
-   twitter.send_direct_message(user_id='2755021825', text='@RoyalSociety. a Fellowship of the worlds most eminent scientists')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field30():
-   twitter.send_direct_message(user_id='2755021825', text='@RoyalSociety, the oldest scientific academy in continuous existence.')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field31():
-   twitter.send_direct_message(user_id='2755021825', text='The latest Tweets from @NASA. Explore the universe and discover our home planet')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field32():
-   twitter.send_direct_message(user_id='2755021825', text='Follow @NASA for news thats out of this world')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field33():
-   twitter.send_direct_message(user_id='2755021825', text='@jodrellbank, the Discovery Centre is a great day out for all the family.')
+   twitter.send_direct_message(user_id='2755021825', text='your tweet here')
 def show_entry_field34():
    twitter.send_direct_message(user_id='2755021825', text='')
 def show_entry_field35():
